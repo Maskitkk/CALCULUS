@@ -1,0 +1,10 @@
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\bin\Debug\BETTER CALCULUS.exe.config
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\bin\Debug\BETTER CALCULUS.exe
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\bin\Debug\BETTER CALCULUS.pdb
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\obj\Debug\BETTER CALCULUS.csproj.AssemblyReference.cache
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\obj\Debug\BETTER_CALCULUS.Properties.Resources.resources
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\obj\Debug\BETTER CALCULUS.csproj.GenerateResource.cache
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\obj\Debug\BETTER CALCULUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\obj\Debug\BETTER CALCULUS.exe
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\obj\Debug\BETTER CALCULUS.pdb
+C:\Users\User\Documents\projects\BETTER CALCULUS\BETTER CALCULUS\obj\Debug\BETTER_CALCULUS.CALCULUS.resources
